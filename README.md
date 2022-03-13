@@ -42,7 +42,7 @@ Database Structure
 
 ## Known Bugs
 
-- _Table is not showing in Readme_
+- _Table is not showing in Readme and image on splash page shows twice._
 
 ## Contact Me
 
