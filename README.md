@@ -14,11 +14,11 @@
 
 ## Description
 
-This application allows the user to enter stylist and clients information. All categorized by stylist. It also saves those entries in persistent database files.
+This application allows the user to enter stylist and client information. It also saves those entries in persistent database files.
 
 Database Structure
 
-![Database Structure Image](/HairSalons/wwwroot/images/DatabaseImage.jpg){: align="left" height="48px" width="48px"}
+![Database Structure Image](./images/DatabaseImage.jpg){: align="left" height="48px" width="48px"}
 
 ## Setup/Installation Requirements
 
