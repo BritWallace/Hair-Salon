@@ -18,7 +18,7 @@ This application allows the user to enter stylist and client information. It als
 
 Database Structure
 
-![Database Structure Image](/wwwroot/images/DatabaseImage.jpg){: align="left" height="48px" width="48px"}
+![Database Structure Image](HairSalon.Solutions/HairSalons/wwwroot/images/DatabaseImage.jpg){: align="left" height="48px" width="48px"}
 
 ## Setup/Installation Requirements
 
