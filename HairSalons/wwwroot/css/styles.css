@@ -21,7 +21,7 @@ div#footer {
 	text-shadow: 2px 2px #862a80;
 	display: inline-block;
   font-size: 16px;
-	padding: 15px 250px;
+	padding: 15px 450px;
 	color: black;
 	
 }
@@ -35,9 +35,8 @@ div#footer {
   margin-top: 50px;
 }
 
-/* #button {
+#button {
 	color: black
 	
 
-} */
-
+}
